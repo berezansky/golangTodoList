@@ -1,0 +1,9 @@
+port: "8080"
+
+db:
+  username: "postgres"
+  password: "postgres"
+  host: "localhost"
+  port: "5436"
+  dbname: "golang"
+  sslmode: "disable"
